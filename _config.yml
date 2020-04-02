@@ -8,6 +8,8 @@ plugins:
 exclude:
   - "/vendor/"
 
+remote_theme : bencentra/centrarium
+
 # Site settings
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
@@ -19,7 +21,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://kyu93.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
