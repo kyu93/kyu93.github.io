@@ -11,7 +11,7 @@ exclude:
 remote_theme : bencentra/centrarium
 
 # Site settings
-title: Centrarium
+title: kyu93_blog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: kyu21217@gmail.com
 name: kyu93
