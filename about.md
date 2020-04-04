@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-<B><U>이름: 김양우 (KIM YANG U)<br>
+<B><U>이름: 김양우 (KIM YANG U)</U></B><br>
 소속: 백수<br>
 취미: ㅇ.ㅇ<br>
 특기: ㅇ.ㅇ
