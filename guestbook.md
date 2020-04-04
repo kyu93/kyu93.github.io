@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GuestBook
-permalink: /GuestBook/
+permalink: /guestbook/
 main_nav: true
 ---
 
