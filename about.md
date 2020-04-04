@@ -6,11 +6,12 @@ main_nav: true
 ---
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
-
-<B>이름: 김양우 (KIM YANG U)</B><br>
-소속: 백수<br>
-취미: ㅇ.ㅇ<br>
-특기: ㅇ.ㅇ
+<p>
+<B>소개</B><br>
+ㆍ이름: 김양우 (KIM YANG U)<br>
+ㆍ소속: 백수<br>
+ㆍ취미: ㅇ.ㅇ<br>
+ㆍ특기: ㅇ.ㅇ
 <p>
 <B>활동이력</B><br>
 ㆍAPS 동아리 회장<br>
