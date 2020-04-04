@@ -7,12 +7,15 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+이름: 김양우 (KIM YANG U)
+소속: 백수
+취미: ㅇ.ㅇ
+특기: ㅇ.ㅇ
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+활동이력
+ㆍAPS 동아리 회장
+ㆍKUCIS 운영진
+ㆍBest of the Best 7th 보안컨설팅
+ㆍ국민연금보험 본사 해킹안전 교육
+ㅇ.ㅇ;
+없다.
