@@ -5,7 +5,7 @@ permalink: /guestbook/
 main_nav: true
 ---
 
-<!doctype html>
+#<!doctype html>
 <html>
 <head>
     <meta charest="utf-8">
@@ -29,15 +29,15 @@ main_nav: true
 
 <body>
 
-<h3>Actively Protect Security</h3>
-<ul>
-    <li>
-        방명록 입니다.
-    </li>
-</ul>
+#<h3>Actively Protect Security</h3>
+#<ul>
+#    <li>
+#        방명록 입니다.
+#    </li>
+#</ul>
 
 <FORM ACTION="insert.php" METHOD="POST">
-    <TABLE BORDER=1 WIDTH=600>
+#    <TABLE BORDER=1 WIDTH=600>
         <TR>
             <TD>이름</TD><TD><INPUT TYPE="TEXT" NAME="name"></TD>
             <TD>비밀번호</TD><TD><INPUT TYPE="PASSWORD" NAME="pass"></TD>
