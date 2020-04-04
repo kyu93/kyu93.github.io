@@ -17,6 +17,6 @@ main_nav: true
 ㆍAPS 동아리 회장<br>
 ㆍKUCIS 운영진<br>
 ㆍBest of the Best 7th 보안컨설팅<br>
-ㆍ국민연금보험 본사 해킹안전 교육<br>
+ㆍ국민연금공단 본사 정보보호의날 맞이 해킹안전 교육<br>
 ㅇ.ㅇ;<br>
 없다.
