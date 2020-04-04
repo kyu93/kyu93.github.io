@@ -52,7 +52,7 @@ jekyll-archives:
   disqus_shortname: kyu21217
 
 # Google analytics
-  ga_tracking_id: "UA-162818734-1"
+#  ga_tracking_id: "UA-162818734-1"
 
 # Category descriptions (for archive pages)
 descriptions:
