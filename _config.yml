@@ -8,7 +8,7 @@ plugins:
 exclude:
   - "/vendor/"
 
-remote_theme : bencentra/centrarium
+#remote_theme : bencentra/centrarium
 
 # Site settings
 title: kyu93_blog
@@ -17,7 +17,6 @@ email: kyu21217@gmail.com
 name: kyu93
 description: >
   This is kyu93's blog.
-
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -50,10 +49,10 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: kyu21217
+  disqus_shortname: kyu21217
 
 # Google analytics
-ga_tracking_id: "UA-162818734-1"
+  ga_tracking_id: "UA-162818734-1"
 
 # Category descriptions (for archive pages)
 descriptions:
