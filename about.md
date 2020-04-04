@@ -7,13 +7,13 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 <p>
-<B>소개</B><br>
+<h2>소개</h2><br>
 ㆍ이름: 김양우 (KIM YANG U)<br>
 ㆍ소속: 백수<br>
 ㆍ취미: ㅇ.ㅇ<br>
 ㆍ특기: ㅇ.ㅇ
 <p>
-<B>활동이력</B><br>
+<h2>활동이력</h2><br>
 ㆍAPS 동아리 회장<br>
 ㆍKUCIS 운영진<br>
 ㆍBest of the Best 7th 보안컨설팅<br>
