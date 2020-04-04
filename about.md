@@ -8,9 +8,9 @@ main_nav: true
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
 이름: 김양우 (KIM YANG U)
-소속: 백수
-취미: ㅇ.ㅇ
-특기: ㅇ.ㅇ
+<p>소속: 백수
+<p>취미: ㅇ.ㅇ
+<p>특기: ㅇ.ㅇ
 
 활동이력
 ㆍAPS 동아리 회장
