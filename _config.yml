@@ -52,6 +52,11 @@ jekyll-archives:
 # Disqus comments
 # disqus_shortname: disqus_un0MWYjym5
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "disqus_un0MWYjym5"
+
 # Google analytics
 # ga_tracking_id: "UA-162818734-1"
 
