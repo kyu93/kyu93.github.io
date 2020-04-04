@@ -50,7 +50,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: disqus_un0MWYjym5
+disqus_shortname: kyu21217
 
 # Google analytics
 # ga_tracking_id: "UA-162818734-1"
