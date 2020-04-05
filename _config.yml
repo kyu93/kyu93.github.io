@@ -49,8 +49,8 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-  disqus_shortname: github-kyu93s-blog
-
+  disqus_shortname: kyu21217
+  
 # Google analytics
   ga_tracking_id: "UA-162818734-1"
 
