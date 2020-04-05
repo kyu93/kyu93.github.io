@@ -7,15 +7,6 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-{% highlight javascript %}
-function demo(string, times) {
-  for (var i = 0; i < times; i++) {
-    console.log(string);
-  }
-}
-demo("자기소개", 10);
-{% endhighlight %}
-
 <p>
 <h2>소개</h2>
 ㆍ이름: 김양우 (KIM YANG U)<br>
