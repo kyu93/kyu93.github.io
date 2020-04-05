@@ -1,6 +1,6 @@
 <header class="navigation" role="banner">
-	
-	    <button type="button" class="mobile-menu"><span>메뉴</span></button>
+  
+      <button type="button" class="mobile-menu"><span>메뉴</span></button>
     <div class="menu">
       <nav id="gnb">
         <ul class="tt_category">
@@ -33,14 +33,46 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-				{% include nav_links.html %}
+        {% include nav_links.html %}
       </ul>
     </nav>
   </div>
-	
-	<div class="search">
+  
+  <div class="search">
       <input type="text" name="search" value="" placeholder="검색내용을 입력하세요." onkeypress="if (event.keyCode == 13) { try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){} }">
       <button type="submit" onclick="try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){}">검색</button>      
-	</div>
-	
+  </div>
+  
 </header>
+
+
+
+
+
+
+<button type="button" class="mobile-menu on">
+
+  <span>메뉴</span>
+
+</button>
+
+<div class="menu on">
+      <nav id="gnb">
+        <ul class="tt_category">
+  <li class="">
+    <a class="link_tit" href="/category">
+      분류 전체보기             <span class="c_cnt">(0)</span>
+      
+          </a>
+
+      </li>
+</ul>
+      </nav>
+      <div class="social-link">
+        
+        
+        
+        
+      </div>
+      <p>POWERED BY TISTORY</p>
+    </div>
